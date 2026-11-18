@@ -4,6 +4,10 @@
   "description": "jclong98's create templates",
   "keywords": [],
   "author": "Jacob Long",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jclong98/create.git"
+  },
   "createConfig": {
     "templates": [
       {
