@@ -9,8 +9,7 @@
       {
         "name": "goose-starter",
         "description": "Goose starter project",
-        "template": "./templates/goose-starter",
-        "monorepo": true
+        "template": "./templates/goose-starter"
       }
     ]
   }
