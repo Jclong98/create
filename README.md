@@ -1,0 +1,1 @@
+https://viteplus.dev/guide/create#scaffold-a-generator
