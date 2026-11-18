@@ -10,7 +10,7 @@ import { GButton, GPopover } from '@jclong98/goose/components';
     read the documentation
   </p>
 
-  <GPopover class="border border-current/50 mt-1 px-4 py-3 rounded-lg" open>
+  <GPopover class="border border-current/50 ml-1 px-4 py-3 rounded-lg" open position-area="right span-bottom">
     <template #activator="{ binding }">
       <GButton v-bind="binding"> Open popover </GButton>
     </template>
